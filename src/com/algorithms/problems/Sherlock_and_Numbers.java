@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.algorithms.excercise;
+package com.algorithms.problems;
 
 import java.io.BufferedReader;
 import java.io.IOException;

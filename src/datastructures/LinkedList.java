@@ -84,6 +84,9 @@ public class LinkedList<Item> implements Iterable<Item>{
 	public int size(){
 		return N;
 	}
+	public Node next(Node node){
+		return node.next;
+	}
 	public void print(Node node){
 		while(node!=null){
 			System.out.print(node.item+" ");
